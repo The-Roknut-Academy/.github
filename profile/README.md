@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-theroknutacademy.com-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theroknutacademy.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TEBxzYRj4)
-[![Support](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20RokNut-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/theroknutacademy)
+[![Support](https://img.shields.io/badge/Buy%20Us%20a%20Coffee-Support%20RokNut-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/theroknutacademy)
 
 </div>
 
